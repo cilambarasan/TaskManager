@@ -1,0 +1,100 @@
+/* custom-calendar.css */
+
+/* Style for the calendar container */
+.calendar-container {
+  max-width: 300px;
+  margin: 0 auto;
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the day element */
+.react-calendar__month-view__days__day {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  background-color: #fff;
+}
+
+/* Style for the selected day */
+.react-calendar__tile--active {
+  background-color: #2196f3; /* Material Blue */
+  color: white;
+}
+
+/* Style for the day of the week labels */
+.react-calendar__month-view__weekdays {
+  display: flex;
+  justify-content: space-between;
+  background-color: #2196f3; /* Material Blue */
+  color: white;
+  border-radius: 8px 8px 0 0;
+}
+
+/* Style for the day of the week label */
+.react-calendar__month-view__weekdays__weekday {
+  text-align: center;
+  font-weight: bold;
+  padding: 8px;
+}
+
+/* Style for the day of the week labels */
+.react-calendar__month-view__days__day--weekend {
+  color: red;
+}
+
+/* Style for the navigation buttons */
+.react-calendar__navigation {
+  background-color: #2196f3; /* Material Blue */
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+/* Style for the navigation buttons */
+.react-calendar__navigation__arrow {
+  border-bottom-color: white;
+}
+
+/* Style for the navigation label */
+.react-calendar__navigation__label {
+  margin: 0;
+}
+
+/* Style for the month and year label */
+.react-calendar__navigation__label__labelText {
+  font-size: 16px;
+ 
+}
+/* contact.css */
+.contact-container {
+      position: relative;
+      bottom: 2rem;
+}
+
+.contact-form {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.contact-info {
+  background-color: #d3e6cc;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.contact-info h2 {
+  margin-bottom: 20px;
+}
+
+.office-image {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-top: 20px;
+}

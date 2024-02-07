@@ -1,0 +1,78 @@
+
+.nam1
+{
+    position: relative;
+    height: 1.5pc;
+    width: 15pc;
+    font-size: 1rem;
+    top: 2rem;
+    left: 2rem;
+    padding-left: 2rem;
+    background: transparent;
+    border: none;
+    border-bottom: .1rem solid black;
+    outline: none;
+}
+.nam1:focus
+{
+    border: none;
+    border-bottom: .1rem solid blue;
+}
+.contsi
+{
+    background-color: #D3E6CC;
+   
+
+    margin: 0;    
+  padding: 0;
+    background-size: cover;
+    
+    position: relative;
+    left: 20rem;
+    top: 10rem;
+    bottom: 10rem;
+    height: 30rem;
+    width: 55rem;
+    box-shadow:-8px -8px 15px rgb(65, 168, 154),5px 5px 15px rgb(126, 206, 221);
+   
+}
+.inns
+{
+    position: relative;
+    left: 27rem;
+    top: 2rem;
+}
+.im1
+{
+    position:relative;
+    bottom: 22.5rem;
+}
+.but1
+{
+    position: relative;
+    border-radius: 2rem;
+    border: none;
+    background-color: rgb(88, 144, 228);
+    width: 4rem;
+    height: 2rem;
+    left: 6.7rem;
+    top: 2.7rem;
+    font-weight: 10rem;
+}
+.ds
+{
+    position: relative;
+    left: 3rem;
+    bottom: 2.2rem;
+}
+.tm
+{
+    font-size: 35px;
+    position: relative;
+    bottom: 5rem;
+    font-weight: 600;
+    color: rgb(26, 24, 23);
+    text-shadow: -4px -3px 4px rgb(163, 163, 233);
+    left: 40rem;
+}
+

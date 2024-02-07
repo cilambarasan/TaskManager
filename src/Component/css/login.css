@@ -1,0 +1,91 @@
+body
+{
+    
+   
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.nam
+{
+    position: relative;
+    height: 1.5pc;
+    width: 15pc;
+    font-size: 1rem;
+    top: 3rem;
+    padding-left: 2rem;
+    background: transparent;
+    border: none;
+    border-bottom: .1rem solid black;
+    outline: none;
+}
+.nam:focus
+{
+    border: none;
+    border-bottom: .1rem solid blue;
+}
+.cont
+{
+    background-color: #D3E6CC;
+  
+    margin: 0;
+  padding: 0;
+    background-size: cover; 
+    position: relative;
+    left: 20rem;
+    top: 10rem;
+    bottom: 10rem;
+    height: 30rem;
+    width: 55rem;
+    box-shadow:-8px -8px 15px rgb(65, 168, 154),5px 5px 15px rgb(126, 206, 221);
+   
+}
+.acc
+{
+    position: relative;
+    bottom: 15.5rem;
+    right: 21rem;
+}
+.im
+{
+    position: relative;
+    left: 31.8rem;
+    bottom: 17.4rem;
+    
+}
+.inn
+{
+    position: relative;
+    left: 2rem;
+    top: 4rem;
+}
+.but
+{
+    position: relative;
+    left: -3rem;
+    width: 5rem;
+    height: 2rem;
+    border-radius: 5rem;
+    background-color: rgb(159, 188, 232);
+    border: none;
+    top: 5rem;
+}
+.for
+{
+    position: relative;
+    border-bottom: none;
+    left: 8rem;
+    top: 2rem;
+    text-decoration: none;
+}
+.sigp
+{
+    position: relative;
+    top: 6rem;
+}
+.no
+{
+    position: relative;
+    top: 3.5rem;
+    left: 11rem;
+    text-decoration: none;
+}
